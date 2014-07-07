@@ -1,0 +1,33 @@
+<div ng-controller="MenuCtrl">
+    <ul class="nav nav-tabs" role="tablist" style="display:inline-block;;">
+        <li ng-repeat="item in menu1" ng-class="{active: isActive(item.link)}">
+            <a ng-href="#/{{item.link}}" role="tab" data-toggle="tab">{{item.title}}</a>
+        </li>
+    </ul>
+    <ul class="nav  nav-tabs" role="tablist" style="display:inline-block;;">
+        <li>
+            <form class="form-inline" role="form" style="display:inline-block;;">
+                <div class="form-group">
+                    <label for="product_filter">Product Filter</label>
+                    <select class="form-control" id="product_filter">
+                        <option value="none">None</option>
+                        <option value="1" selected="selected">MASTER CATALOG</option>
+                        <option value="2">Retail</option>
+                        <option value="3">Wholesaler</option>
+                        <option value="4">Mechanical</option>
+                        <option value="5">Sheet Metal</option>
+                    </select>
+                </div>
+                <div class="form-group" style="padding-left: 50px; display:inline;">
+                    <label for="search_name">Find a product</label>
+                    <input type="text" class="form-control" id="search_name" placeholder="Search by product name" style="width:300px">
+                </div>
+            </form>
+        </li>
+    </ul>
+    <ul class="nav  nav-tabs" role="tablist" style="display:inline-block;">
+        <li ng-repeat="item in menu2" ng-class="{active: isActive(item.link)}">
+            <a ng-href="#/{{item.link}}" role="tab" data-toggle="tab">{{item.title}}</a>
+        </li>
+    </ul>
+</div>

@@ -1,0 +1,34 @@
+<style>
+    .list-group {
+        margin-bottom: 0px !important;
+    }
+</style>
+<div ng-controller="NavbarCtrl">
+
+    <accordion close-others="true">
+        <accordion-group ng-repeat="category in categories">
+            <div ng-if="category.total===1">
+                <accordion-heading style="padding: 0;">
+                    <a data="{{category.items[0].id}}" ng-click="getCategory($event, 1)"  href="javascript:void(0);">
+                        <span class="glyphicon glyphicon-list-alt"></span> {{category.items[0].name | filter: 'titleCase'}}
+                    </a>
+                </accordion-heading>
+            </div>
+            <div ng-if="category.total>1">
+                <accordion-heading style="padding: 0">
+                    <div style="margin:0px;cursor:pointer;"  ng-click="open_submenu =! open_submenu">
+                        <span class="glyphicon glyphicon-tasks"></span>
+                        {{category.name}}({{category.total}})
+                        <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': open_submenu, 'glyphicon-chevron-right': !open_submenu}"></i>
+                    </div>
+                </accordion-heading>
+                <div class="list-group" ng-repeat="item in category.items">
+                    <a data="{{item.id}}" ng-click="getCategory($event)" class="list-group-item" href="javascript:void(0);">
+                        <span class="glyphicon glyphicon-list-alt"></span> {{item.name | filter: 'titleCase'}}
+                    </a>
+                </div>
+            </div>
+        </accordion-group>
+    </accordion>
+
+</div>

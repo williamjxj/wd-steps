@@ -1,0 +1,490 @@
+[
+    {
+        "RECTANGULAR":[
+            {
+                "id":"21",
+                "name":"DUCT"
+            },
+            {
+                "id":"20",
+                "name":"ELBOWS & TEES"
+            },
+            {
+                "id":"22",
+                "name":"OFFSETS"
+            },
+            {
+                "id":"19",
+                "name":"TRANSITIONS"
+            },
+            {
+                "id":"64",
+                "name":"FLEX"
+            },
+            {
+                "id":"23",
+                "name":"FIRE DAMPER SLEEVES"
+            },
+            {
+                "id":"69",
+                "name":"TROFFERS / GRILL BOXES"
+            },
+            {
+                "id":"71",
+                "name":"SCREENS"
+            },
+            {
+                "id":"65",
+                "name":"VOLUME DAMPERS"
+            },
+            {
+                "id":"206",
+                "name":"PATCHES"
+            },
+            {
+                "id":"152",
+                "name":"TDF FRAME"
+            },
+            {
+                "id":"114",
+                "name":"DUCT REINFORCEMENTS"
+            }
+        ]
+    },
+    {
+        "ROUND":[
+            {
+                "id":"68",
+                "name":"SPIRAL & PIPE"
+            },
+            {
+                "id":"27",
+                "name":"ELBOWS & OFFSETS"
+            },
+            {
+                "id":"26",
+                "name":"ROUND with CONICAL TAPS"
+            },
+            {
+                "id":"72",
+                "name":"ROUND WITH STRAIGHT TAPS"
+            },
+            {
+                "id":"28",
+                "name":"RECTANGULAR ON ROUND"
+            },
+            {
+                "id":"84",
+                "name":"ROUND WITH ANGLED TAPS"
+            },
+            {
+                "id":"30",
+                "name":"REDUCERS"
+            },
+            {
+                "id":"29",
+                "name":"SQUARE TO ROUND"
+            },
+            {
+                "id":"31",
+                "name":"FIRE DAMPER SLEEVES"
+            },
+            {
+                "id":"33",
+                "name":"TAKE OFFs"
+            },
+            {
+                "id":"32",
+                "name":"FLEX"
+            },
+            {
+                "id":"87",
+                "name":"Couplers"
+            },
+            {
+                "id":"88",
+                "name":"Dampers"
+            },
+            {
+                "id":"89",
+                "name":"PLUGS / END CAPS"
+            },
+            {
+                "id":"91",
+                "name":"Draw Bands"
+            }
+        ]
+    },
+    {
+        "ROOF FLASHING & CURBS":[
+            {
+                "id":"40",
+                "name":"CURBS"
+            },
+            {
+                "id":"41",
+                "name":"FLASHINGS"
+            }
+        ]
+    },
+    {
+        "16 GA WELDED RECTANGULAR":[
+            {
+                "id":"116",
+                "name":"DUCT"
+            },
+            {
+                "id":"117",
+                "name":"ELBOWS & TEES"
+            },
+            {
+                "id":"119",
+                "name":"TRANSITIONS"
+            },
+            {
+                "id":"120",
+                "name":"OFFSETS"
+            },
+            {
+                "id":"122",
+                "name":"ACCESS DOORS"
+            }
+        ]
+    },
+    {
+        "16 GA WELDED ROUND":[
+            {
+                "id":"129",
+                "name":"ROUND WITH CONICAL TAPS"
+            },
+            {
+                "id":"130",
+                "name":"ROUND WITH STRAIGHT TAPS"
+            },
+            {
+                "id":"124",
+                "name":"ROUND WITH ANGLED TAPS"
+            },
+            {
+                "id":"123",
+                "name":"RECTANGULAR ON ROUND"
+            },
+            {
+                "id":"125",
+                "name":"SQUARE TO ROUNDS"
+            },
+            {
+                "id":"126",
+                "name":"ELBOWS & OFFSETS"
+            },
+            {
+                "id":"127",
+                "name":"REDUCERS"
+            },
+            {
+                "id":"128",
+                "name":"STOCK PIPE"
+            }
+        ]
+    },
+    {
+        "18 ga WELDED RECTANGULAR":[
+            {
+                "id":"133",
+                "name":"DUCT"
+            },
+            {
+                "id":"134",
+                "name":"ELBOWS & TEES"
+            },
+            {
+                "id":"135",
+                "name":"TRANSITIONS"
+            },
+            {
+                "id":"136",
+                "name":"OFFSETS"
+            },
+            {
+                "id":"158",
+                "name":"ACCESS DOORS"
+            }
+        ]
+    },
+    {
+        "18 ga WELDED ROUND":[
+            {
+                "id":"138",
+                "name":"ROUND WITH CONICAL TAPS"
+            },
+            {
+                "id":"139",
+                "name":"ROUND WITH STRAIGHT TAPS"
+            },
+            {
+                "id":"141",
+                "name":"ROUND WITH ANGLED TAPS"
+            },
+            {
+                "id":"140",
+                "name":"RECTANGULAR ON ROUND"
+            },
+            {
+                "id":"142",
+                "name":"SQUARE TO ROUNDS"
+            },
+            {
+                "id":"143",
+                "name":"ELBOWS & OFFSETS"
+            },
+            {
+                "id":"144",
+                "name":"REDUCERS"
+            },
+            {
+                "id":"145",
+                "name":"STOCK PIPE"
+            }
+        ]
+    },
+    {
+        "PANS":[
+            {
+                "id":"159",
+                "name":"PANS"
+            }
+        ]
+    },
+    {
+        "FLASHING & ANGLES":[
+            {
+                "id":"149",
+                "name":"FLASHING & ANGLES"
+            }
+        ]
+    },
+    {
+        "RESIDENTIAL PRODUCTS":[
+            {
+                "id":"109",
+                "name":"RESIDENTIAL PRODUCTS"
+            }
+        ]
+    },
+    {
+        "HANGERS & SUPPORTS":[
+            {
+                "id":"112",
+                "name":"HANGER STRAP"
+            },
+            {
+                "id":"36",
+                "name":"DUCT"
+            },
+            {
+                "id":"110",
+                "name":"ALL THREAD"
+            },
+            {
+                "id":"111",
+                "name":"UNISTRUT"
+            },
+            {
+                "id":"35",
+                "name":"SPIRAL"
+            },
+            {
+                "id":"37",
+                "name":"LEGS"
+            },
+            {
+                "id":"38",
+                "name":"SUPPORTS"
+            }
+        ]
+    },
+    {
+        "Gripple Products":[
+            {
+                "id":"255",
+                "name":"Gripple Trapeze"
+            },
+            {
+                "id":"256",
+                "name":"Gripple Standard Hangers"
+            }
+        ]
+    },
+    {
+        "DUCT ACCESSORIES":[
+            {
+                "id":"81",
+                "name":"ACCESS DOORS"
+            },
+            {
+                "id":"99",
+                "name":"FIRE DAMPER ANGLE"
+            },
+            {
+                "id":"93",
+                "name":"S's & Drives"
+            },
+            {
+                "id":"94",
+                "name":"TDF Accessories"
+            },
+            {
+                "id":"62",
+                "name":"DUCT TAPE & POLY"
+            },
+            {
+                "id":"95",
+                "name":"SEALER"
+            },
+            {
+                "id":"101",
+                "name":"PAINT BRUSHES"
+            },
+            {
+                "id":"97",
+                "name":"BYTLE TAPE"
+            },
+            {
+                "id":"80",
+                "name":"CLAMPS & TIES"
+            },
+            {
+                "id":"113",
+                "name":"ROUND FLEX"
+            },
+            {
+                "id":"61",
+                "name":"SILICONE & CAULKING"
+            }
+        ]
+    },
+    {
+        "HARDWARE":[
+            {
+                "id":"47",
+                "name":"SCREWS"
+            },
+            {
+                "id":"48",
+                "name":"ANCHORS"
+            },
+            {
+                "id":"51",
+                "name":"BOLTS"
+            },
+            {
+                "id":"50",
+                "name":"NUTS"
+            },
+            {
+                "id":"52",
+                "name":"WASHERS"
+            },
+            {
+                "id":"53",
+                "name":"COUPLERS"
+            },
+            {
+                "id":"82",
+                "name":"LUMBER CRAYONS"
+            },
+            {
+                "id":"58",
+                "name":"SPRAY PAINT"
+            },
+            {
+                "id":"63",
+                "name":"MISCELLANEOUS"
+            }
+        ]
+    },
+    {
+        "SEISMIC":[
+            {
+                "id":"44",
+                "name":"SEISMIC"
+            }
+        ]
+    },
+    {
+        "TOOLS, BLADES & BITS":[
+            {
+                "id":"75",
+                "name":"LADDERS"
+            },
+            {
+                "id":"102",
+                "name":"POWER TOOLS"
+            },
+            {
+                "id":"60",
+                "name":"CUTTING BLADES"
+            },
+            {
+                "id":"59",
+                "name":"METAL CUTTING"
+            },
+            {
+                "id":"83",
+                "name":"SNAP OFF BLADES"
+            },
+            {
+                "id":"104",
+                "name":"GANG BOXES"
+            },
+            {
+                "id":"105",
+                "name":"HANGER TOOLS"
+            },
+            {
+                "id":"106",
+                "name":"TDF TOOLS"
+            },
+            {
+                "id":"56",
+                "name":"SDS BITS"
+            },
+            {
+                "id":"57",
+                "name":"DRIVER BITS"
+            }
+        ]
+    },
+    {
+        "SAFETY SUPPLIES & GLOVES":[
+            {
+                "id":"204",
+                "name":"Hi Visability & First Aid"
+            },
+            {
+                "id":"74",
+                "name":"GLOVES"
+            },
+            {
+                "id":"203",
+                "name":"Eye, Ear & Head Protection"
+            },
+            {
+                "id":"201",
+                "name":"Respirators & Masks"
+            },
+            {
+                "id":"202",
+                "name":"Fall Protection"
+            }
+        ]
+    },
+    {
+        "ABS Pipe & Fittings":[
+            {
+                "id":"169",
+                "name":"ABS Pipe & Fittings"
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+/* Space out content a bit */
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.container-fluid {
+    padding-left: 90px;
+}
+#user_name {
+    background-color: #ccc;
+    color: #000;
+    margin: -15px 0 0 0;
+    padding: 19px 10px 5px;
+    -moz-border-radius-bottomright: 8px;
+    -moz-border-radius-bottomleft: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+#contact-info {
+    margin: 12px 0 0 0;
+}
+#contact-info .pitch {
+    color: #2973AF;
+    font-weight: bold;
+    padding: 5px;
+    width: 90px;
+    font-size: 16px;
+}
+#contact-info .phone {
+    color: #555;
+    font-size: 2em;
+    font-weight: bold;
+}
